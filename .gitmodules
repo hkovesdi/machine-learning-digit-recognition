@@ -1,0 +1,6 @@
+[submodule "docker-for-digit-recognition"]
+	path = docker-for-digit-recognition
+	url = https://github.com/hkovesdi/docker-for-digit-recognition
+[submodule "digit-recognition-api"]
+	path = digit-recognition-api
+	url = https://github.com/hkovesdi/digit-recognition-api
