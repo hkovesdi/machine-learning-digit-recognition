@@ -22,7 +22,6 @@ import Vue from 'vue';
 import VueSignature from 'vue-signature-pad';
 Vue.use(VueSignature);
 
-Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('drawing-pad', require('./components/DrawingPadComponent.vue').default);
 
 /**
