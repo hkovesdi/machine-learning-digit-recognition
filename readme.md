@@ -1,4 +1,7 @@
-Instructions to setup the project:
+# About the project
+Simple application that recognizes digits written on a canvas.
+
+## Setup instructions
 
 - cp .env.example .env
 - git submodule init
